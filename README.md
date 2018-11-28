@@ -18,6 +18,8 @@ Engima is a react based PWA powered by GatsbyJS built on `The PRPL pattern` offe
 
 *Please read [COMMENTS.md](./COMMENTS.md) for more details*
 
+Live Demo : [ENIGMA](https://global-gaming-challenge.surge.sh/)
+
 ## `Components`
 
 This app is built with certain essential components:

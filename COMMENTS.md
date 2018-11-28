@@ -1,6 +1,6 @@
 ## 🎓 Initial Approach
 
-This peoject has some deciding metrics that helped me to use a powerful tech stack. When I read `optimsation, responsive, performance` keywords in the given task, I started to looking for various approaches that could work with ReactJS in order to provide meet all these requirments. After spending some time in gathering information, I decided to chose GatsbyJS ( a static site generator of React Apps).
+This project has some deciding metrics that helped me to use a powerful tech stack. When I read `optimsation, responsive, performance` keywords in the given task, I started to looking for various approaches that could work with ReactJS in order to provide meet all these requirments. After spending some time in gathering information, I decided to chose GatsbyJS ( a static site generator of React Apps).
 
 These are following reasons: 
 
